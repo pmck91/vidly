@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Vidly
+An app built using react, following [code with mosh!](https://codewithmosh.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
